@@ -37,6 +37,6 @@ groupmod 选项 用户组
 $ newgrp root
 
 Linux路由表
-在命令行下输入route  -n
-视窗的路由表：
+在命令行下输入路线-n
+windows路由表
 在命令行下输入route print
