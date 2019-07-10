@@ -35,3 +35,8 @@ groupdel 用户组
 groupmod 选项 用户组
 用户可以在登录后，使用命令newgrp切换到其他用户组，这个命令的参数就是目的用户组。例如：
 $ newgrp root
+
+Linux路由表
+在命令行下输入route  -n
+视窗的路由表：
+在命令行下输入route print
