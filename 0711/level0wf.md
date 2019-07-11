@@ -1,4 +1,5 @@
 [1.查看文件类型]()
+
 ![](https://github.com/Wraxluz/lz/blob/master/level0/a.png)
 
 [2.拖入ida查看，read 函数有缓冲区溢出漏洞]()
