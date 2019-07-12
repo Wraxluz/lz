@@ -6,7 +6,7 @@
 
 ![](https://github.com/Wraxluz/lz/blob/master/level0/b.png)
 
-[3.填充为0x80的的的字节，RBP有8个字节，计算偏移地址()
+[3.填充为0x80的字节，RBP有8个字节，计算偏移地址]()
 
 ![](https://github.com/Wraxluz/lz/blob/master/level0/c.png)
 
