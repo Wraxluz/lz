@@ -2,7 +2,7 @@
 
 ![](https://github.com/Wraxluz/lz/blob/master/level0/a.png)
 
-[2.拖入ida查看，read 函数有缓冲区溢出漏洞]()
+[2.拖入IDA查看，BUF函数有溢出漏洞]()
 
 ![](https://github.com/Wraxluz/lz/blob/master/level0/b.png)
 
